@@ -7,7 +7,7 @@ public class TechnologyManager {
 
     public TechnologyManager() {
         technologies = new ArrayList<>();
-        // Varsayılan teknolojileri burada oluşturabiliriz
+        
     }
 
     public List<Technology> getAll() {
